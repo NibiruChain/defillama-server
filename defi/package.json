@@ -107,7 +107,7 @@
     "dotenv": "^16.0.1",
     "ethers": "^6.0.0",
     "hyper-express": "^6.8.7",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "node-fetch": "^2.6.1",
     "p-limit": "^3.0.0",
     "pg-promise": "^11.4.0",
