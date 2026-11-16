@@ -418,6 +418,11 @@
       "symbol": "USDC",
       "to": "coingecko#usd-coin"
     },
+    "0x357c97796aA8e2A6b5A64b1Fc19d5baB9668E190": {
+      "decimals": "6",
+      "symbol": "USDC",
+      "to": "coingecko#usd-coin"
+    },
     "0x84f682626302EA7BCA2A7c338b84863292131319": {
       "decimals": "18",
       "symbol": "sUSDa",
